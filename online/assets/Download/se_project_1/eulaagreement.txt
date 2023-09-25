@@ -1,0 +1,26 @@
+END USER LICENSE AGREEMENT ("EULA")
+
+Welcome to Forestview. By using this application, you agree to the terms laid out in this EULA. Please read them carefully.
+
+Data Privacy:
+-We value your data. Forestview ensures that all personal information provided by the end user is kept private and confidential. The application employs advanced encryption methodologies to protect data from unauthorized access, alterations, or disclosures. Forestview performs periodic penetration and vulnerability assessments on the prior methodolgies. The user acknowledges that while Forestview makes significant efforts to safeguard personal data, no system can be completely secure. Hence, Forestview cannot guarantee absolute security.
+
+Application Sharing:
+-Users may not copy, reproduce, distribute, or create derivative works from this application. Sharing login credentials or any proprietary details of the application with third parties is strictly prohibited. Any unauthorized distribution will be dealt with legally.
+
+Usage restrictions:
+-The end user is expressly forbidden from selling, renting, or distributing any data, whether in original or modified form, procured from this application, without the express consent of Forestview. Any such unauthorized distribution or sharing is a direct infringement of this agreement and will result in legal action.
+
+General Terms:
+-Forestview reserves the right to modify the terms of this EULA without any prior notice. It's the responsibility of the user to periodically review this agreement.
+-This EULA constitutes the entire agreement between you and Forestview and supersedes any prior understandings, written or oral, relating to the subject matter of this EULA.
+-If any provision of this EULA is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions, which shall remain in full force and effect.
+
+Indemnity Clause:
+-You agree to indemnify, defend and hold harmless Forestview, its officers, directors, employees, agents, and third parties, for any losses, costs, liabilities and expenses (including reasonable attorney's fees) relating to or arising out of your use of or inability to use the application, any user postings made by you, your violation of any terms of this Agreement or your violation of any rights of a third party, or your violation of any applicable laws, rules or regulations.
+
+Limitation on Liability:
+-Forestview shall not be liable for any loss or damage arising from security breaches, zero-day attacks, database worms, SQL injections, or any other security lapses that may result in unauthorized access to your data, loss of data, or any other related damages.
+
+Acknowledgement:
+By continuing to use this application, you acknowledge that you have read, understood, and agree to the aforementioned terms. If you do not agree with these terms, please cease usage of this application immediately.
